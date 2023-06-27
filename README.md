@@ -16,7 +16,7 @@ The following tools have been used in the project:
 
 ### Author
 
-Made by Felipe Augusto :fire:
+Made by Felipe Augusto 
 
 ---
 
