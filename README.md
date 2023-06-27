@@ -20,4 +20,4 @@ Made by Felipe Augusto :fire:
 
 ---
 
-#### [Live Server](https://FelipeA.github.io/odin-landing-page/)
+#### [Live Server](https://felipeabg.github.io/LandingPage-OdinProject/)
